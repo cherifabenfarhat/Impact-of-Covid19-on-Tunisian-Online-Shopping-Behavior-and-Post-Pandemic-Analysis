@@ -1,4 +1,4 @@
-Vous avez dit :
+
 The Covid-19 outbreak had impacted the daily routine of citizens globally and in many aspects. Consumption and demand for products had experienced a remarkable decrease due to lockdown measurements and the fear of contamination while shopping. Hence, the digital transformation was a global alternative solution to face the sanitary crisis. 
 In this study, we examined the online purchasing behavior during the pandemic in Tunisia. 
 We studied the effect of Covid-19 on the online purchasing behavior, the buyers’ satisfaction with the online purchasing experience, and their perception of the readiness of local businesses regarding the online shift. Besides, we tried to get an idea about the continuity of the behavior of Tunisians after the pandemic and the factors influencing it. 
